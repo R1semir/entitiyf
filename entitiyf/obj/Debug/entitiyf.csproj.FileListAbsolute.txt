@@ -1,0 +1,15 @@
+C:\Users\legen\source\repos\entitiyf\entitiyf\bin\Debug\entitiyf.exe.config
+C:\Users\legen\source\repos\entitiyf\entitiyf\bin\Debug\entitiyf.exe
+C:\Users\legen\source\repos\entitiyf\entitiyf\bin\Debug\entitiyf.pdb
+C:\Users\legen\source\repos\entitiyf\entitiyf\bin\Debug\EntityFramework.dll
+C:\Users\legen\source\repos\entitiyf\entitiyf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\legen\source\repos\entitiyf\entitiyf\bin\Debug\EntityFramework.xml
+C:\Users\legen\source\repos\entitiyf\entitiyf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\legen\source\repos\entitiyf\entitiyf\obj\Debug\entitiyf.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\entitiyf\entitiyf\obj\Debug\entitiyf.Form1.resources
+C:\Users\legen\source\repos\entitiyf\entitiyf\obj\Debug\entitiyf.Properties.Resources.resources
+C:\Users\legen\source\repos\entitiyf\entitiyf\obj\Debug\entitiyf.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\entitiyf\entitiyf\obj\Debug\entitiyf.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\entitiyf\entitiyf\obj\Debug\entitiyf.csproj.CopyComplete
+C:\Users\legen\source\repos\entitiyf\entitiyf\obj\Debug\entitiyf.exe
+C:\Users\legen\source\repos\entitiyf\entitiyf\obj\Debug\entitiyf.pdb
